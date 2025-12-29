@@ -25,8 +25,8 @@ This project focuses on a modern **dark glassmorphism design** with basic task m
 ---
 
 ## 📂 Project Structure
-
-```Todo-App/
+```
+Todo-App/
 │
 ├── Todo_App.html        # Main HTML file (App structure)
 ├── Todo.css             # CSS file for styling
@@ -35,8 +35,8 @@ This project focuses on a modern **dark glassmorphism design** with basic task m
 ├── Assets/              # Project assets
 │   └── Background.jpg   # Background image
 │
-└── README.md            # Project documentation```
-
+└── README.md            # Project documentation
+```
 
 ---
 
