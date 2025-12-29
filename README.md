@@ -28,11 +28,15 @@ This project focuses on a modern **dark glassmorphism design** with basic task m
 
 Todo-App/
 │
-├── Todo_App.html # Main HTML file
-├── Todo.css # Styling (Dark Glass UI)
-├── Todo.js # App logic (Add, Complete, Count tasks)
-└── Assets/
-└── Background.jpg
+├── Todo_App.html        # Main HTML file (App structure)
+├── Todo.css             # CSS file for styling
+├── Todo.js              # JavaScript file (App functionality)
+│
+├── Assets/              # Project assets
+│   └── Background.jpg   # Background image
+│
+└── README.md            # Project documentation
+
 
 ---
 
