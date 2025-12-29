@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Todo App</title>
+	<link rel="stylesheet" href="Todo.css">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+	<main class="container">
+		<section class="card">
+			<header>
+				<div class="logo">TD</div>
+				<div>
+					<h1>Todo — Dark Glass</h1>
+					<p class="lead">Simple Todo List - Easy Task Management</p>
+				</div>
+			</header>
+
+			<div class="add">
+				<input type="text" placeholder="Add a task...">
+				<button class="btn-add">Add</button>
+			</div>
+
+			<ul class="todos">
+				<li>
+					<input id="a1" type="checkbox">
+					<label for="a1">Design the app layout and theme</label>
+				</li>
+				<li>
+					<input id="a2" type="checkbox" checked>
+					<label for="a2">Create glassmorphic card styles</label>
+				</li>
+				<li>
+					<input id="a3" type="checkbox">
+					<label for="a3">Refine colors and spacing</label>
+				</li>
+			</ul>
+
+			<footer>
+				<div></div>
+			</footer>
+		</section>
+
+		<aside class="side">
+			<div class="card chip"></div>
+			<div class="card chip">Completed: 1</div>
+			<div class="card chip">Theme: Dark glass</div>
+		</aside>
+	</main>
+
+	<script src="Todo.js"></script>
+</body>
+</html>
+
