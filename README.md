@@ -26,7 +26,7 @@ This project focuses on a modern **dark glassmorphism design** with basic task m
 
 ## 📂 Project Structure
 
-Todo-App/
+```Todo-App/
 │
 ├── Todo_App.html        # Main HTML file (App structure)
 ├── Todo.css             # CSS file for styling
@@ -35,7 +35,7 @@ Todo-App/
 ├── Assets/              # Project assets
 │   └── Background.jpg   # Background image
 │
-└── README.md            # Project documentation
+└── README.md            # Project documentation```
 
 
 ---
@@ -60,7 +60,6 @@ Todo-App/
 ## 📌 Future Improvements (Optional)
 
 - Delete tasks
-- Save tasks using localStorage
 - Filter tasks (All / Completed / Pending)
 - Light theme option
 
